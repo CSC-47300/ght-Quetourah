@@ -1,0 +1,23 @@
+/*
+September 9, 2019 - What is CSS? Cascading Style Sheets
+
+selector { property: value }
+p { color : red; }
+
+inline: <p style="background:blue;">Paragraph </p>
+external: html => <link rel="stylesheet" href="index.css">
+    p {
+        color : red;
+        font-family : Garamond, sans-serif;
+    }
+
+tools:
+    jsfiddle
+    stackblitz
+    codepen
+    codesandbox
+*/
+h1{
+    color: #ff58ff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
